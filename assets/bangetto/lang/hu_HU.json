@@ -10,7 +10,7 @@
 	"bmh.config.runner.remove": "Remove Runner",
 	"bmh.config.hunter": "Vadászok:",
 	"bmh.config.countdown": "Visszaszámlálás:",
-	"bmh.config.countdown.tooltip": "Állítsa be a kívánt számú ticket (1/20 másodperc) a vadászok elindulása előtt.",
+	"bmh.config.countdown.tooltip": "Állítsd be a kívánt számú ticket (a 1/20 másodperc részét) a vadászok elindulása előtt.",
 	"bmh.config.countdown.ticks": "tick",
 	"bmh.config.countdown.tickconvert": "1 másodperc = 20 tick",
 	"bmh.config.rlives": "Runner Lives:",
