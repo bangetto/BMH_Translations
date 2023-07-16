@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": {
+            "translate": "bmh.translationpack.desc",
+            "fallback": "Translations for bangetto's Manhunt"
+        }
+    }
+}
