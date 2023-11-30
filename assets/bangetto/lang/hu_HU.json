@@ -9,8 +9,11 @@
 	"bmh.config.runner.add": "Add Runner",
 	"bmh.config.runner.remove": "Remove Runner",
 	"bmh.config.hunter": "Vadászok:",
-	"bmh.config.countdown": "Visszaszámlálás:",
-	"bmh.config.countdown.tooltip": "Állítsa be a kívánt számú ticket (1/20 másodperc) a vadászok elindulása előtt.",
+	"bmh.config.hunter.select": "Vadászok kiválasztása",
+	"bmh.config.hunter.add": "Vadász hozzáadása",
+	"bmh.config.hunter.remove": "Vadász eltávolítása",
+	"bmh.config.countdown": "Visszaszámláló:",
+	"bmh.config.countdown.tooltip": "Állítsd be a kívánt számú ticket (a 1/20 másodperc részét) a vadászok elindulása előtt.",
 	"bmh.config.countdown.ticks": "tick",
 	"bmh.config.countdown.tickconvert": "1 másodperc = 20 tick",
 	"bmh.config.rlives": "Runner Lives:",
@@ -21,5 +24,5 @@
 	"bmh.compass.ab.refresh": "Iránytű frissítve",
 	"bmh.credit.title.tooltip": "Hatalmas köszönet mindazoknak, akik támogatták ennek a datapacknek a létrehozását! ❤",
 	"bmh.credit.bangetto": "Ötlet & Eredeti készítő:",
-	"bmh.credit.compass": "Creator of the Compass Tracking System:"
+	"bmh.credit.compass": "A Compass Tracker alkotója:"
 }
